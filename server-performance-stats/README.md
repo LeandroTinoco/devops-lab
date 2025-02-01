@@ -43,4 +43,5 @@ No external dependencies are required to run this script, but it is recommended 
 
 ## License
 
+https://roadmap.sh/projects/server-stats
 This project is licensed under the MIT License.
